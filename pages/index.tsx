@@ -16,7 +16,7 @@ export default function Home({ posts }: Props) {
   return (
     <div className="mx-auto max-w-7xl">
       <Head>
-        <title>Create Next App</title>
+        <title>Medium 2.0</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
